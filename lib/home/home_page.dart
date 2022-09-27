@@ -2,7 +2,6 @@ import 'dart:developer';
 
 import 'package:first_app/design_system/my_color.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 import '../model/contato.dart';
 import 'widgets/contact.dart';
